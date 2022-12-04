@@ -12,7 +12,7 @@ int main()
     setlocale(LC_ALL, "RU");
     srand(time(NULL));
     int mas[MAX][MAX];
-    int n, m;
+    int n, m, q;
     int k, p;
     int i, j;
     int sum = 0;
